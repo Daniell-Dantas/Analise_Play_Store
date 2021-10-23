@@ -15,7 +15,7 @@ Hoje existem aplicativos de diversos tipos presentes na Play Store, com diversas
 
 Estas e outras perguntas serão respondidas nesta análise. Com isso, teremos uma base para saber melhor como precificar um aplicativo e ajudar a tomar decisões mais acertadas, baseadas em dados, em diversas áreas de negócio, como: Campanhas de marketing, lançamentos, público alvo, concorrência, Product Market Fit, etc.
 
- ### Leia o arquivo [PlayStore.ipynb](https://nbviewer.org/github/Daniell-Dantas/Analise_Play_Store/blob/fb17f565478fa53a79f769917799f712ff81e224/PlayStore.ipynb#imports) para ver o passo a passo utilizado e etapas como:
+ ### Acesse o arquivo [PlayStore](https://nbviewer.org/github/Daniell-Dantas/Analise_Play_Store/blob/fb17f565478fa53a79f769917799f712ff81e224/PlayStore.ipynb#imports) para ver o passo a passo utilizado e etapas como:
 - Tratamento de dados;
 - Exploração de dados;
 - Visualização de dados;
