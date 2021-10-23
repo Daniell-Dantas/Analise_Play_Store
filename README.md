@@ -19,3 +19,5 @@ Estas e outras perguntas serão respondidas nesta análise. Com isso, teremos um
 - Tratamento de dados;
 - Exploração de dados;
 - Visualização de dados;
+
+OBS: Acesse o link [PlayStore](https://nbviewer.org/github/Daniell-Dantas/Analise_Play_Store/blob/fb17f565478fa53a79f769917799f712ff81e224/PlayStore.ipynb#imports) para ter uma melhor e mais completa visualização do notebook.
